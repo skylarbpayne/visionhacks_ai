@@ -1,0 +1,16 @@
+[project]
+name = "visionhacks-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "docling>=2.37.0",
+    "mirascope[gemini,google]>=1.25.1",
+    "python-dotenv>=1.1.0",
+]
+
+[dependency-groups]
+dev = [
+    "ipdb>=0.13.13",
+]
