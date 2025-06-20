@@ -69,9 +69,17 @@ There are many ways you could modify this program and make it better. I want you
 
 ## Refine the prompt
 
+The prompt is pretty simple. Maybe you want something different from 5 bullet points. Try to modify the prompt to get a different structure.
+
 ## Add structured outputs
 
+When working with other, non AI code, it's helpful to have the output be "structured". Try to follow examples from [mirascope structured outputs](https://mirascope.com/docs/mirascope/guides/getting-started/structured-outputs) to define a structure for the output.
+Maybe something that has a more "feature complete" summary or different levels of summarization.
+
 ## Summarize multiple articles
+
+Instead of only including one article, what if you could summarize many articles at once? This could help with research reviews and other tasks!
+Try modifying the function to take a `list` of articles instead of just 1.
 
 ## Your OWN Idea!
 
