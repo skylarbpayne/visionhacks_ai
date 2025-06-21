@@ -1,5 +1,7 @@
 # Vision Hacks AI Workshop
 
+[LINK TO SLIDES](https://docs.google.com/presentation/d/1AI0fVN7hWtVc1tNifpbovjMtpSpLEF_YIMQ-4RP-MUI/edit?slide=id.g36a2377f78a_0_0#slide=id.g36a2377f78a_0_0)
+
 In this workshop, you'll learn the basics of writing code that uses AI with python and [mirascope](https://mirascope.com/docs/mirascope/guides/getting-started/quickstart).
 Mirascope is a library that has a lot of support for building real-world AI applications.
 
