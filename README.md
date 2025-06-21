@@ -56,7 +56,7 @@ Click "Copy" to copy your API key (and you guessed it, also a blue button)
 Create a new file `.env` and put the following:
 
 ```text
-GEMINI_API_KEY={PASTE YOUR KEY HERE}
+GOOGLE_API_KEY={PASTE YOUR KEY HERE}
 ```
 
 ### Run to see if it works
